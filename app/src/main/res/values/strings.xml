@@ -1,0 +1,381 @@
+<resources>
+    <string name="app_name">Recipe</string>
+    <string name="about1">Hava Recipe adalah aplikasi yang menyediakan berbagai resep makanan
+        dan minuman khas nusantara. Mulai dari makanan ringan atau snack, minuman, sampai makanan
+        berat. Selain itu, makanan yang kami berikan resepnya itu memenuhi gizi 4 sehat 5 sempurna.
+        </string>
+    <string name="about2">Kami Menyajikan langkah-langkah yang mudah dipahami dan praktis untuk
+        membantu meringankan pekerjaan Anda di dapur. Cocok untuk pemula yang sedang belajar masak,
+        maupun yang sudah mahir namun sering bingung mau masak apa.</string>
+    <string name="about3">
+        Sebagian besar informasi memasak dan resep yang kami berikan diperoleh dari berbagai sumber
+        media cetak, elektronik dan internet.
+        Kami Memahami bahwa tidak semua resep sempurna, untuk itulah kritik dan saran membangun
+        bisa disampaikan melalui email kami di havarecipe@gmail.com demi menghadirkan informasi
+        resep yang lebih akurat.
+    </string>
+    <string name="about5">
+        Semoga kumpulan aneka resep masakan yang kami sajikan bisa menginspirasi dan membantu para
+        pembaca agar tidak lagi kebingungan ketika hendak menyajikan menu makanan untuk keluarga.
+    </string>
+    <string name="about4">--Selamat Memasak--</string>
+    <string name="ab">Hava Recipe adalah situs website yang menyediakan berbagai resep makanan
+        dan minuman khas nusantara. Resep yang kami berikan kepada pengunjung mudah dipahami dan di
+        praktekkan. Selain itu, makanan yang kami berikan resepnya itu memenuhi gizi 4 sehat 5 sempurna.</string>
+    <string name="phone">+01 2000 800 9999</string>
+    <string name="email">havarecipe@gmail.com</string>
+    <string name="location">CCIT FTUI, Depok</string>
+    <string name="prep">Prep Time</string>
+    <string name="cook">Cook Time</string>
+    <string name="bahan">BAHAN - BAHAN</string>
+    <string name="isi">ISI</string>
+    <string name="cara">CARA MEMBUAT</string>
+    <string name="bahan_f1">
+        - 1 bungkus Tepung Bumbu Serbaguna Oriental 80 gram \n
+        - 6 sdm air dingin \n
+        - 300 gram nasi sushi/hangat \n
+        - 250 ml minyak goreng \n
+        - 3 lembar nori
+    </string>
+    <string name="isi_f1">
+        - 1 buah timun jepang, potong panjang \n
+        - 2 buah wortel, potong panjang \n
+        - 3 lembar telur dadar, gulung \n
+        - mayonaise secukupnya
+    </string>
+    <string name="cara_f1">
+        1. Siapkan nori, beri nasi di atasnya kemudian oles menggunakan mayonaise hingga rata. \n
+        \n
+        2. Susun pada salah satu sisi nasi timun jepang, wortel dan telur dadar, beri mayonaise kemudian gulung hingga padat dan rapih.Lakukan hingga bahan habis, sisihkan. \n
+        \n
+        3. Campur 3 sdm Tepung Bumbu Serbaguna Oriental dengan air dingin, aduk hingga rata. \n
+        \n
+        4. Tuang sisa Tepung Bumbu Serbaguna Oriental ke dalam wadah. Masukkan sushi ke dalam adonan basah, kemudian ke dalam adonan kering sambil diremas-remas sebanyak 5 kali. \n
+        \n
+        5. Goreng sushi dalam minyak goreng panas hingga kuning kecoklatan, angkat dan tiriskan. Potong-potong sushi kemudian sajikan. \n
+    </string>
+
+    <string name="bahan_f2">
+        - 250 gram pasta \n
+        - 1 buah bawang bombai, cincang kasar \n
+        - 1 siaung bawang putih, cincang kasar \n
+        - 4 sdm saus spagetti instan \n
+        - 3 buah sosis, potong sesuai selera \n
+        - 1/4 kotak keju, parut \n
+        - 5 sdm air rebusan pasta \n
+        - Garam \n
+        - Gula \n
+        - Merica \n
+        - Irisan daun bawang
+    </string>
+    <string name="cara_f2">
+        1. Rebus pasta dalam air, tambahkan sedikit garam, dan minyak sampai matang angkat, tiriskan. \n
+        \n
+        2. Tumis bawang putih dan bombai hingga harum, lalu masukkan sosis, aduk-aduk, dan masak hingga sosis matang. \n
+        \n
+        3. Masukkan saus spagetti dan keju parut, aduk-aduk lalu tambahkan air rebusan pasta, aduk kembali. \n
+        \n
+        4. Kemudian tambahkan garam, gula dan merica, aduk. \n
+        \n
+        5. Koreksi rasa, jika sudah pas masukkan pasta, aduk-aduk hingga tercampur rata, matikan api. \n
+        \n
+        6. Tuang di atas piring saji dan taburkan daun-daun bawang.
+    </string>
+
+    <string name="bahan_f3">
+        - ½ botol Sambal Terasi 240 gram \n
+        - 5 sdm Saus Tomat \n
+        - 1 papan petai \n
+        - 50 gr kacang tanah sangrai \n
+        - 1 sdm garam \n
+        - 2 sdm gula \n
+        - 200 gr teri jengki goreng \n
+        - air dan minyak secukupnya
+    </string>
+    <string name="cara_f3">
+        1. Masukkan Sambal Terasi, air secukupnya, dan SASA Saus Tomat lalu tumis. \n
+        \n
+        2. Kemudian masukkan petai, kacang tanah yang telah disangrai, teri jengki goreng, garam, dan gula lalu aduk hingga merata. \n
+        \n
+        3. Teri Balado Sambal Terasi dapat disajikan.
+    </string>
+    <string name="bahan_f4">
+        - 4 butir telur \n
+        - 20 gram Santan Bubuk \n
+        - 50 ml air \n
+        - 60 gram paprika merah, kuning dan hijau \n
+        - garam dan merica bubuk secukupnya
+    </string>
+    <string name="isi_f4">
+        - 3 sdm minyak goreng \n
+        - 300 gram fillet ayam, potong dadu \n
+        - 50 gram Santan Bubuk \n
+        - 300 ml air \n
+        - 3 lembar daun jeruk \n
+        - 3 lembar daun salam \n
+        - 2 cm lengkuas \n
+        - 2 batang sereh
+    </string>
+    <string name="isi2_f4">
+        - 7 butir bawang merah \n
+        - 5 siung bawang putih \n
+        - 1 sdt ketumbar \n
+        - ¼ sdt jinten \n
+        - ¼ buah pala \n
+        - 1 sdt merica butiran \n
+        - 5 butir kemiri \n
+    </string>
+    <string name="cara_f4">
+        1. Campuran Ayam : Panaskan minyak goreng, tumis bumbu halus, daun jeruk, daun salam dan lengkuas hingga harum. \n
+        \n
+        2. Masukkan ayam, masak hingga berubah warna. Taburkan Santan Bubuk, air, garam dan gula pasir, masak hingga matang dan kuah mengering. Angkat \n
+        \n
+        3. Kocok telur, Sasa Bubuk, air, paprika merah, kuning dan hijau, garam dan merica bubuk hingga rata. \n
+        \n
+        4. Panaskan pan dadar, tuang adonan telur, lalu taburi dengan ayam gurih, masak dan lipat. Angkat dan sajikan
+    </string>
+    <string name="bahan_f5">
+        - 300 gram ikan tuna,potong dadu \n
+        - 2 buah tomat hijau,potong potong \n
+        - 3 buah bawang merah,iris tipis \n
+        - 2 siung bawang putih,iris tipis \n
+        = 1 ruas jari jahe,memarkan \n
+        - 2 buah cabe merah besar,iris tipis \n
+        - 10 buah cabe rawit merah/hijau,iris tipis \n
+        - 2 lembar daun bawang \n
+        - 2 batang sereh,memarkan \n
+        - 100 gram jamur,iris tipis \n
+        - 60 gram Santan Bubuk \n
+        - 500 ml air \n
+        - merica,gula,garam secukupnya
+    </string>
+    <string name="cara_f5">
+        1. Didihkan air, taburkan Santan Bubuk. Tambahkan bawang merah, bawang putih, jahe, daun jeruk, sereh, merica bubuk, gula pasir dan garam, aduk rata dan masak hingga harum. \n
+        \n
+        2. Masukkan jamur, ikan, cabe merah dan cabe rawit, masak hingga matang. \n
+        \n
+        3. Sajikan panas dengan taburan daun bawang dan seledri.
+    </string>
+    <string name="bahan_f6">
+        - 2 buah labu siam, kupas, potong korek api \n
+        - 400 gr udang, kupas kulit sisakan ekor \n
+        - 2 cm lengkuas, memarkan \n
+        - 2 batang sereh, memarkan \n
+        - 2 lembar daun salam \n
+        - 3 lembar daun jeruk \n
+        - 1 liter air \n
+        - 100 gram Santan Bubuk \n
+        - 5 sdm minyak goreng, untuk menumis \n
+        - gula pasir dan garam secukupnya
+    </string>
+    <string name="isi_f6">
+        - 10 buah bawang merah \n
+        - 5 siung bawang putih \n
+        - 2 cm kunyit \n
+        - 4 butir kemiri \n
+        - 5 buah cabe merah besar \n
+        - 3 buah cabe keriting \n
+        - 2 sdt ketumbar
+    </string>
+    <string name="cara_f6">
+        1. Panaskan minyak goreng lalu tumis bumbu halus, lengkuas, sereh, daun salam, dan daun jeruk hingga harum. \n
+        \n
+        2. Masukkan udang, masak hingga berubah warna. Tambahkan garam, gula pasir, air dan taburkan Sasa Santan Bubuk masak hingga mendidih, masukkan labu siam masak hingga matang. \n
+        \n
+        3. Sajikan dengan taburan bawang goreng.
+    </string>
+    <string name="bahan_d1">
+        - 30 gram Santan Bubuk \n
+        - 600 ml air \n
+        - 1 bungkus agar-agar putih \n
+        - 50 gram gula pasir \n
+        - ½ sdt garam \n
+    </string>
+    <string name="isi_d1">
+        - 1 buah daging durian \n
+        - 300 ml air kelapa muda \n
+        - 100 gram Santan Bubuk \n
+        - 100 ml sirup gula merah \n
+        - 600 gram es serut
+    </string>
+    <string name="cara_d1">
+        1. Tuang air ke dalam panci lalu tambahkan agar-agar, gula pasir dan garam, masak sambil diaduk hingga mendidih lalu taburi Santan Bubuk aduk rata angkat. \n
+        \n
+        2. Tuang adonan sesendok demi sesendok diatas bongkahan es batu hingga adonan membeku di es, lepaskan berlahan dengan garpu. \n
+        \n
+        3. Penyajian, Atur dalam mangkok saji, durian dan kopyor. Tuang air kelapa muda lalu tambahkan es serut.beri taburan Santan Bubuk dan sirup gula merah Sajikan.
+    </string>
+    <string name="bahan_d2">
+        - 1 bungkus agar-agar \n
+        - 80 gram Santan Bubuk \n
+        - 800 ml air \n
+        - 80 gram gula pasir \n
+    </string>
+    <string name="isi_d2">
+        - 200 gram nata de coco \n
+        - 100 gram kelapa serut \n
+        - 100 gr nangka, potong panjang \n
+        - 1 sdm biji selasih \n
+        - 100 gram Santan Bubuk \n
+        - 100 ml sirup cocopandan \n
+        - 500 gram es serut
+    </string>
+    <string name="cara_d2">
+        1. Masukkan agar-agar, air dan gula pasir , masak hingga mendidih taburi Santan Bubuk aduk rata, angkat lalu tuang ke dalam wadah, diamkan hingga mengeras. \n
+        \n
+        2. Cetak/potong agar-agar sesuai selera, sisihkan. \n
+        \n
+        3. Penyajian : Masukkan kedalam gelas saji, agar-agar, nata de coco, biji selasih, es serut ,sirup cocopandan lalu beri taburan Santan Bubuk, sajikan.
+    </string>
+    <string name="bahan_d3">
+        - 100 gr biji delima/pacar cina, rebus, tiriskan \m
+        - 150 ml susu kental manis \n
+        - 5 buah nangka, iris bulat \n
+        - 1 buah alpukat, keruk \n
+        - 1 buah kelapa muda, keruk memanjang \n
+        - 300 ml air es \n
+        - santan \n
+        - 80 gram Santan Bubuk \n
+        - 200 ml air \n
+        - 2 lembar daun pandan
+    </string>
+    <string name="cara_d3">
+        1. Santan : didihkan air dan daun pandan dalam panci, masukkan SASA Santan Bubuk. angkat dan dinginkan \n
+        \n
+        2. Campur,biji delima, nangka, alpukat, kelapa muda dan es batu,aduk rata. \n
+        \n
+        3. Tuang santan, susu kental manis dan air es, aduk rata lalu masukkan kedalam campuran biji delima,aduk rata. \n
+        \n
+        4. Tuang kedalam gelas saji dan sajikan segera
+    </string>
+    <string name="bahan_d4">
+        - 1/2 kg tepung ketan, uleni dengan air dan sedikit garam uleni dengan air dan sedikit garam \n
+        - 1 bungkus Santan Bubuk, encerkan dengan air hangat encerkan dengan air hangat \n
+        - 1/2 kg tepung kanji, taburkan pada nampan taburkan pada nampan \n
+        - 1/2 kg gula jawa, disisir-sisir \n
+        - 2 lembar daun pandan \n
+        - garam secukupnya
+    </string>
+    <string name="cara_d4">
+        1. uleni tepung ketan dengan air sedikit demi sedikit sampai kalis, tambahkan garam halus. \n
+        \n
+        2. buat bulatan-bulatan sebesar kelereng, letakkan pada nampan yang telah ditaburi tepung kanji. selalu taburkan tepung kanji pada bulatan-bulatan agar tidak lengket \n
+        \n
+        3. panaskan air sampai mendidik, masukkan daun pandan dan gula jawa.dan masukkan bulatan tepung ketan.masukkan juga sisa tepung kanji. \n
+        \n
+        4. masak sampai air berkurang dan bubur mengental. sajikan dengan santan bubuk sasa yang sudah di encerkan.
+    </string>
+    <string name="bahan_ds1">
+        - 500 gram singkong, potong-potong \n
+        - 2 sdm margarin \n
+        - 60 gram Santan Bubuk \n
+        - 50 gram gula halus \n
+        - garam secukupnya \n
+        - ½ sdt pasta pandan \n
+        - 100 gram keju parut
+    </string>
+    <string name="cara_ds1">
+        1. Kukus singkong hingga matang dan merekah, haluskan. \n
+        \n
+        2. Masukkan singkong, margarin, , gula halus, garam dan taburi Santan Bubuk ke dalam wadah, aduk rata. \n
+        \n
+        3. Bagi adonan menjadi dua bagian. Satu bagian diberi pasta pandan dan bagian lainnya biarkan putih. \n
+        \n
+        4. Pipihkan setiap adonan, tumpuk adonan hijau terlebih dahulu, kemudian adonan putih, lalu tambahkan keju parut pada satu sisi yang akan digulung. \n
+        \n
+        5. Gulung getuk, kemudian potong-potong. Sajikan
+    </string>
+    <string name="bahan_ds2">
+        - 1 kg singkong mentega, kupas potong dadu \n
+        - 800 ml air \n
+        - 3 lembar daun pandan \n
+        - 170 gram Santan Bubuk \n
+        - 120 gram gula pasir \n
+        - 1 sdt garam \n
+        - 50 gram wijen sangrai
+    </string>
+    <string name="isi_ds2">
+        - 2 sdm tepung beras \n
+        - 50 ml air
+    </string>
+    <string name="cara_ds2">
+        1. Rebus singkong, air, daun pandan dan garam dalam panci, masak hingga singkong setengah matang dan mekar. \n
+        \n
+        2. Taburi Santan Bubuk ke dalam singkong, tambahkan gula pasir, masak hingga semua matang dan harum. Tuang larutan tepung beras, masak hingga kental. Angkat. \n
+        \n
+        3. Sajikan singkong dalam mangkuk saji lalu taburi dengan wijen.
+    </string>
+    <string name="bahan_ds3">
+        - 1 bungkus agar-agar bubuk warna putih \n
+        - 230 gram Santan Bubuk \n
+        - 700 ml air\n
+        - 125 gram gula pasir
+    </string>
+    <string name="isi_ds3">
+        - 1 bungkus jelly bubuk putih (tanpa rasa) \n
+        - 500 ml air \n
+        - 125 gram gula pasir \n
+        - 10 butir nangka, iris panjang
+    </string>
+    <string name="cara_ds3">
+        1. Lapisan putih : campur agar-agar, Santan Bubuk, air, dan gula pasir kemudian aduk hingga rata. Masak hingga mendidih lalu angkat. \n
+        \n
+        2. Siapkan loyang puding, tuang setengah adonan putih ke dalamnya dan diamkan hingga mengeras. \n
+        \n
+        3. Lapisan bening : campur jelly bubuk, air dan gula pasir lalu aduk hingga rata. Masak hingga mendidih lalu angkat. \n
+        \n
+        4. Susun di atas puding putih nangka, kemudian tuang setengah adonan bening. Biarkan hingga mengeras. \n
+        \n
+        5. Tuang kembali sisa adonan putih, diamkan mengeras lalu susun kembali nangka di atas adonan putih dan tuang sisa adonan bening kemudian diamkan mengeras. \n
+        \n
+        6. Masukkan puding ke dalam kulkas, jika ingin dikomsumsi keluarkan puding dari loyang, potong-potong dan sajikan
+    </string>
+    <string name="bahan_ds4">
+        - 1 bungkus tepung hunkue \n
+        - 100 gram mutiara \n
+        - 200 gram gula pasir \n
+        - ½ sdt garam \n
+        - 1 lembar daun pandan\n
+        - 1 bungkus Santan Bubuk \n
+        - 850 ml air
+    </string>
+    <string name="cara_ds4">
+        1. Masukkan 850 ml air. Campur tepung hunkue dan air, aduk rata. \n
+        \n
+        2. Masukkan gula pasir, daun pandan dan garam, aduk hingga rata. \n
+        \n
+        3. Taburkan Santan Bubuk 250 gr, aduk hingga rata sampai mengental. \n
+        \n
+        4. Kemudian masukkan mutiara yang telah direbus hingga matang lalu aduk rata. Tuang adonan pada cetakan bunga, diamkan hingga dingin. \n
+        \n
+        5. Keluarkan kue cente manis dari dalam cetakan, Sajikan
+    </string>
+    <string name="bahan_ds5">
+        - 6 buah roti tawar, potong-potong \n
+        - 240 gram labu kuning, kukus dan haluskan \n
+        - 2 butir telur \n
+        - 120 gram Santan Bubuk \n
+        - 150 ml air \n
+        - 50 gram gula pasir \n
+        - 1 sdm mentega leleh \n
+        - 100 gram keju parut
+    </string>
+    <string name="cara_ds5">
+        1. Campur roti tawar dan labu kuning, aduk rata lalu sisihkan \n
+        \n
+        2. Masukkan air, telur, gula dan Sasa Santan Bubuk ke dalam mangkuk lalu aduk hingga rata lalu tuang ke dalam roti tawar, aduk rata \n
+        \n
+        3. Tuang ke dalam cetakan/loyang lalu taburi keju parut, masukkan ke dalam panci pengkukus, kukus hingga matang, angkat dan sajikan
+    </string>
+    <string name="our_serv1">Di Website ini semua resep makanan disusun dengan baik dan rapi layaknya
+        buku panduan. Selain itu bahasa yang digunakan mudah dimengerti dan mudah dipahami ketika
+        memasak menggunakan resep pada website ini.</string>
+    <string name="our_serv2">Semua Resep makanan yang disajikan pada website ini adalah makanan sehat
+        yang mengaju pada pedoman "4 sehat 5 sempurna" sehingga menjaga kebugaran tubuh anda dan
+        membuat anda dapat menerapkan hidup sehat</string>
+    <string name="our_serv3">
+        Resep masakan pada website ini dibuat oleh Koki handal dan berpengalaman dalam membuat
+        makanan sehingga pastinya jika anda membuat makanan mengikuti resep pada website ini dijamin terasa enak
+    </string>
+    <string name="quotes">" If you're not the one cooking, stay out of the way and compliment the chef. "</string>
+</resources>

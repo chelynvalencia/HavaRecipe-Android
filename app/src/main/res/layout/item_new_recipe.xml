@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:orientation="horizontal">
+            
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="100dp"
+                android:id="@+id/foto_recipe"
+                android:src="@drawable/logo_recipe"/>
+
+            <TextView
+                android:id="@+id/nama_recipe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bakso"
+                android:textSize="30sp"
+                android:layout_marginLeft="7dp"
+                android:layout_toRightOf="@id/foto_recipe"/>
+            <TextView
+                android:id="@+id/category"
+                android:layout_below="@id/nama_recipe"
+                android:layout_toRightOf="@id/foto_recipe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="7dp"
+                android:text="category recipe"
+                android:textSize="20sp"/>
+            <TextView
+                android:id="@+id/desc"
+                android:layout_below="@id/category"
+                android:layout_toRightOf="@id/foto_recipe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="7dp"
+                android:text="description"
+                android:textSize="20sp"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/dongker"
+                android:layout_below="@id/desc"/>
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

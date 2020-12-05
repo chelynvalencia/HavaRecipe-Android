@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "190122979219",
+    "firebase_url": "https://hava-recipe.firebaseio.com",
+    "project_id": "hava-recipe",
+    "storage_bucket": "hava-recipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190122979219:android:05eb111f278e8309fe0266",
+        "android_client_info": {
+          "package_name": "com.example.havarecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190122979219-9hprc4hbhrpog8v46tbhg5poms4vf53h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.havarecipes",
+            "certificate_hash": "0da211fd72fcda12ec81c433812780a0681778a0"
+          }
+        },
+        {
+          "client_id": "190122979219-vbd1fv5tj2tfn92hk3hod3j7gvk1chu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQFy3unk-KDGKjSqX2yt2VLwBny5hHmDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190122979219-vbd1fv5tj2tfn92hk3hod3j7gvk1chu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190122979219:android:e9728fcd71503c99fe0266",
+        "android_client_info": {
+          "package_name": "com.example.recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190122979219-ctn2qkrifkqdcrmgst8rddlicu0p4vv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recipe",
+            "certificate_hash": "0da211fd72fcda12ec81c433812780a0681778a0"
+          }
+        },
+        {
+          "client_id": "190122979219-vbd1fv5tj2tfn92hk3hod3j7gvk1chu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQFy3unk-KDGKjSqX2yt2VLwBny5hHmDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190122979219-vbd1fv5tj2tfn92hk3hod3j7gvk1chu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

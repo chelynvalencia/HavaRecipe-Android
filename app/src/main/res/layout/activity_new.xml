@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".category.NewActivity">
+
+    <RelativeLayout
+        android:id="@+id/judul_new"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="@drawable/appbar"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/btnDash"
+            android:layout_width="85dp"
+            android:layout_height="60dp"
+
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="305dp"
+            android:layout_marginRight="305dp"
+            android:background="@drawable/logo_recipe"></ImageButton>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/rubik_medium"
+        android:text="New Recipe"
+        android:textSize="30sp">
+
+    </TextView>
+
+    <Button
+        android:id="@+id/btnDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Detail"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="140dp"
+        android:layout_alignParentEnd="true"
+        >
+
+    </Button>
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/list_recipe"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+</LinearLayout>
